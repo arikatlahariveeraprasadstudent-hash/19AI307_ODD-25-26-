@@ -25,8 +25,8 @@ To write a Java program that checks whether a number is divisible by 3, 5, or bo
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: Stephen raj Y
-RegisterNumber: 212223230217
+Developed by: Arikatla Hari Veera Prasad
+RegisterNumber: 212223240014
 */
 ```
 
